@@ -1,6 +1,6 @@
-const Access_key="AKIAUTSMW6C6OPQ5ZHUS";
+const Access_key="***";
 	
-const Secret_access_key="01tETaumXaJ8/6Kb8F5OWxQfcoUs+eFaHAlKE41f";
+const Secret_access_key="***";
 const S3 = require("@aws-sdk/client-s3");
 
 const s3 = new S3({
